@@ -191,16 +191,15 @@
   dependencies:
     "@babel/plugin-syntax-jsx" "^7.2.0"
 
-"@vue/babel-sugar-inject-h@^1.1.2":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@vue/babel-sugar-inject-h/-/babel-sugar-inject-h-1.1.2.tgz#8a5276b6d8e2ed16ffc8078aad94236274e6edf0"
-  integrity sha512-VRSENdTvD5htpnVp7i7DNuChR5rVMcORdXjvv5HVvpdKHzDZAYiLSD+GhnhxLm3/dMuk8pSzV+k28ECkiN5m8w==
-  dependencies:
-    "@babel/plugin-syntax-jsx" "^7.2.0"
-
 "@vue/babel-sugar-inject-h@https://gitpkg.now.sh/dword-design/jsx/packages/babel-sugar-inject-h?30a60ad73d483ab67018c9877bf08dde7cd2d824":
   version "1.1.2"
   resolved "https://gitpkg.now.sh/dword-design/jsx/packages/babel-sugar-inject-h?30a60ad73d483ab67018c9877bf08dde7cd2d824#9c127edb98582578a6df7aff0e3c365a809e550a"
+  dependencies:
+    "@babel/plugin-syntax-jsx" "^7.2.0"
+
+"@vue/babel-sugar-inject-h@https://gitpkg.now.sh/dword-design/jsx/packages/babel-sugar-inject-h?fork":
+  version "1.1.2"
+  resolved "https://gitpkg.now.sh/dword-design/jsx/packages/babel-sugar-inject-h?fork#e4dea3af59c68cb41022ff184e5934752221e817"
   dependencies:
     "@babel/plugin-syntax-jsx" "^7.2.0"
 
